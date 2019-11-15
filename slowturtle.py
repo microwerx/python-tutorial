@@ -1,3 +1,6 @@
+# This is the slow version of the fibonacci turtle
+# The asymptotics for this program is O(1.618^n)
+
 from turtle import *
 from math import *
 
