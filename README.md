@@ -3,9 +3,9 @@
 ## Download
 
 * Download Python 3 at [https://www.python.org](https://www.python.org).
-* Try out the Pythonista app for iOS
-* Try out the Python 3 program on [repl.it](https://repl.it/languages/python3/)
-* Try out the Python Turtles program on [repl.it](https://repl.it/languages/python_turtle)
+* Try out the Pythonista [app for iOS](https://apps.apple.com/us/app/pythonista-3/id1085978097).
+* Try out the Python 3 program on [repl.it](https://repl.it/languages/python3/).
+* Try out the Python Turtles program on [repl.it](https://repl.it/languages/python_turtle).
 
 ## Examples
 
